@@ -42,9 +42,6 @@ body {
 
 }
 
-strong {
-    color: var(--cor-terciaria);
-
 }
 
 .apresentacao {
@@ -151,4 +148,5 @@ strong {
     .apresentacao__conteudo {
         width: auto;
     }
+
 }
